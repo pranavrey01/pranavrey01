@@ -20,5 +20,7 @@ Myself Pranav, currently studying computer science (DS track). i design and buil
 
 ### stats
 
-<img src="https://streak-stats.demolab.com/?user=pranavrey01&theme=dark&hide_border=true" alt="GitHub streak stats" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=pranavrey01&theme=dark&hide_border=true" alt="GitHub streak stats" />
+</p>
 
