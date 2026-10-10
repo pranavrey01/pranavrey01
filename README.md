@@ -1,9 +1,9 @@
 ## Hi there!👋
 
-I'm Pranav, an undergrad comp sci student.
+Myself Pranav, an undergrad comp sci student.
 i design and build cool stuff - atleast i try to.
 
-css, pyhon, data structurs, mL & ds, C#
+<i> css, pyhon, data structurs, mL & ds, C# </i>
 
 ## Connect w me
 
@@ -20,6 +20,13 @@ css, pyhon, data structurs, mL & ds, C#
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=pranavrey01&theme=dark&hide_border=true" alt="GitHub streak stats" />
 </p>
+
+<h2>💻</h2>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavrey01&layout=compact&theme=github_dark&hide_border=true"
+  height="180"
+/>
 
 
 <a href="https://time.is/Dehradun">
