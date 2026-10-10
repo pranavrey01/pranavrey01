@@ -16,11 +16,11 @@
 
 <h2>about</h2>
 
-<p>Myself Pranav, currently studying computer science (DS track).</p>
+Myself Pranav, currently studying computer science (DS track).
 
-<p>i design and build cool stuff - atleast i try to.</p>
+i design and build cool stuff - atleast i try to.
 
-<p><i>css, python, data structures, ML &amp; DS, C#</i></p>
+<i>css, python, data structures, ML &amp; DS, C#</i>
 
 <h2>GitHub streak</h2>
 
