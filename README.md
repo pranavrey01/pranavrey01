@@ -14,7 +14,7 @@
 
 Myself Pranav, currently studying computer science (DS track). i design and build cool stuff - atleast i try to.
 
-*css, python, data structures, ML & DS, C#*
+*html & css, python, data structures, ML & DS, C#*
 
 <hr />
 
