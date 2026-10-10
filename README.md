@@ -1,4 +1,16 @@
-## Hi there!👋
+<h1 align="center">Pranav Soodan</h1>
+
+<hr />
+
+<p align="center">
+  CS @ UPES
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/pranavx/">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.instagram.com/pxanavx/">Instagram</a>
+</p>
+
+<hr />
 
 Myself Pranav, an undergrad comp sci student.
 i design and build cool stuff - atleast i try to.
