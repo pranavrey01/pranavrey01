@@ -24,10 +24,3 @@ i design and build cool stuff - atleast i try to.
 
 <img src="https://streak-stats.demolab.com/?user=pranavrey01&theme=dark&hide_border=true" alt="GitHub streak stats" />
 
-### languages
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavrey01&layout=compact&theme=github_dark&hide_border=true"
-  height="180"
-  alt="Most used programming languages"
-/>
