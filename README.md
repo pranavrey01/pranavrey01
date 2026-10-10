@@ -1,27 +1,20 @@
-<h1 align="center">Pranav Soodan</h1>
-
 <p align="center">
-  CS @ UPES
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/pranavx/">LinkedIn</a>
-  &nbsp; · &nbsp;
-  <a href="https://www.instagram.com/pxanavx/">Instagram</a>
+  <sub>
+    CS @ UPES
+    &nbsp; · &nbsp;
+    <a href="https://www.linkedin.com/in/pranavx/">LinkedIn</a>
+    &nbsp; · &nbsp;
+    <a href="https://www.instagram.com/pxanavx/">Instagram</a>
+  </sub>
 </p>
 
-<hr />
+## about
 
-## Hi there! 👋
+Myself Pranav, currently studying computer science (DS track).
 
-Myself Pranav, an undergrad comp sci student.
-
-Myself Pranav, an undergrad comp sci student.
 i design and build cool stuff - atleast i try to.
 
-<i> css, pyhon, data structurs, mL & ds, C# </i>
-
-<h2>📌 Featured Projects</h2>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:8B5CF6&height=3&section=header&text=&fontSize=0" width="100%" />
+<i> css, python, data structures, ML & DS, C# </i>
 
 ## Connect w me
 
