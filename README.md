@@ -1,7 +1,7 @@
 <h1 align="center">pranav soodan</h1>
 
 <p align="center">
-  CS @ UPES
+  cs @ upes
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/pranavx/">linkedin</a>
   &nbsp;·&nbsp;
@@ -10,7 +10,7 @@
 
 <hr />
 
-## about
+### about
 
 Myself Pranav, currently studying computer science (DS track).
 
