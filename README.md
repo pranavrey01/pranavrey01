@@ -20,22 +20,14 @@ i design and build cool stuff - atleast i try to.
 
 <hr />
 
-<h2>GitHub streak</h2>
+### GitHub streak
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=pranavrey01&theme=dark&hide_border=true" alt="GitHub streak stats" />
-</p>
+<img src="https://streak-stats.demolab.com/?user=pranavrey01&theme=dark&hide_border=true" alt="GitHub streak stats" />
 
-<h2>Languages</h2>
+### languages
 
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavrey01&layout=compact&theme=github_dark&hide_border=true"
   height="180"
   alt="Most used programming languages"
 />
-
-<p>
-  <a href="https://time.is/Dehradun">
-    <img src="https://img.shields.io/badge/TIME-IST_(UTC%2B5%3A30)-111827?style=for-the-badge&logo=clock&logoColor=white" alt="India Standard Time" />
-  </a>
-</p>
