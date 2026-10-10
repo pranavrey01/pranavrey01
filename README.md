@@ -5,6 +5,10 @@ i design and build cool stuff - atleast i try to.
 
 <i> css, pyhon, data structurs, mL & ds, C# </i>
 
+<h2>📌 Featured Projects</h2>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:8B5CF6&height=3&section=header&text=&fontSize=0" width="100%" />
+
 ## Connect w me
 
 <p align="left">
