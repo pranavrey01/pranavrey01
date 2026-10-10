@@ -1,3 +1,7 @@
+<h1 align="center">Pranav Soodan</h1>
+
+<hr />
+
 <p align="center">
   <sub>
     CS @ UPES
@@ -8,38 +12,32 @@
   </sub>
 </p>
 
-## about
+<hr />
 
-Myself Pranav, currently studying computer science (DS track).
+<h2>about</h2>
 
-i design and build cool stuff - atleast i try to.
+<p>Myself Pranav, currently studying computer science (DS track).</p>
 
-<i> css, python, data structures, ML & DS, C# </i>
+<p>i design and build cool stuff - atleast i try to.</p>
 
-## Connect w me
+<p><i>css, python, data structures, ML &amp; DS, C#</i></p>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/pranavrey01">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
+<h2>GitHub streak</h2>
 
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=pranavrey01&theme=dark&hide_border=true" alt="GitHub streak stats" />
 </p>
 
-<h2>💻</h2>
+<h2>Languages</h2>
 
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavrey01&layout=compact&theme=github_dark&hide_border=true"
   height="180"
+  alt="Most used programming languages"
 />
 
-
-<a href="https://time.is/Dehradun">
-  <img src="https://img.shields.io/badge/TIME-IST_(UTC%2B5%3A30)-111827?style=for-the-badge&logo=clock&logoColor=white" />
-</a>
+<p>
+  <a href="https://time.is/Dehradun">
+    <img src="https://img.shields.io/badge/TIME-IST_(UTC%2B5%3A30)-111827?style=for-the-badge&logo=clock&logoColor=white" alt="India Standard Time" />
+  </a>
+</p>
